@@ -1,6 +1,3 @@
-Here's a `README.md` file you can use to showcase your biomedical QA project on GitHub:
-
----
 
 # 🧬 Gene-Disease Biomedical QA System
 
