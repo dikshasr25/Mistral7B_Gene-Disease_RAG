@@ -79,7 +79,3 @@ Each dataset is converted into structured `Document` objects for embedding and s
 - Authentication with Hugging Face Hub is optional but recommended for smoother model loading.
 - This system is optimized for **biomedical QA**, but can be extended to other domains with new data.
 
----
-
-
-Let me know if you want this formatted directly as a downloadable file or integrated into a Colab notebook as well.
